@@ -1,4 +1,4 @@
-# Bot de Música para Discord.
+# Bot de Música para Discord
 
 Este proyecto es un bot de Discord que permite a los usuarios reproducir música en un canal de voz escribiendo el comando `/musica <nombre>`.
 
